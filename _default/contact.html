@@ -6,23 +6,23 @@
       <div class="col-8">
         <form action="{{site.Params.contact_form_action}}" method="post">
           <div class="mb-4">
-            <label for="name" class="form-label">{{ i18n "name" }}</label>
-            <input type="text" class="form-control" id="name" name="name" required>
+            <label for="name" class="form-label">Name</label>
+            <input type="text" class="form-control" id="name" placeholder="name" required>
           </div>
           <div class="mb-4">
-            <label for="email" class="form-label">{{ i18n "email" }}</label>
-            <input type="email" class="form-control" id="email" name="email" required>
+            <label for="email" class="form-label">Email</label>
+            <input type="email" class="form-control" id="email" placeholder="hello@datascienceproduct.com" required>
           </div>
           <div class="mb-4">
-            <label for="subject" class="form-label">{{ i18n "subject" }}</label>
-            <input type="text" class="form-control" id="subject" name="subject" required>
+            <label for="subject" class="form-label">Subject</label>
+            <input type="text" class="form-control" id="subject" placeholder="Subject" required>
           </div>
           <div class="mb-4">
-            <label for="message" class="form-label">{{ i18n "message"}}</label>
-            <textarea class="form-control" id="message" rows="4" name="message" required></textarea>
+            <label for="message" class="form-label">message</label>
+            <textarea class="form-control" id="message" rows="4" placeholder="Your message" required></textarea>
           </div>
 
-          <button type="submit" class="btn btn-primary" aria-label="Send Message">{{ i18n "send_message"}}</button>
+          <button type="submit" class="btn btn-primary" aria-label="Send Message">Send message</button>
         </form>
       </div>
     </div>
