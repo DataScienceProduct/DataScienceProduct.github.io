@@ -5,7 +5,16 @@
     <link>https://DataScienceProduct.com/</link>
     <description>Recent content on Data Science Product</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 02 Feb 2021 10:20:19 +0600</lastBuildDate><atom:link href="https://DataScienceProduct.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Jan 2022 18:19:25 +0600</lastBuildDate><atom:link href="https://DataScienceProduct.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is data science product management?</title>
+      <link>https://DataScienceProduct.com/blog/post-1/</link>
+      <pubDate>Mon, 31 Jan 2022 18:19:25 +0600</pubDate>
+      
+      <guid>https://DataScienceProduct.com/blog/post-1/</guid>
+      <description>TL;DR: Product management is the process of building a product taking into account business opportunities and solving end users problems. A product leveraging data science techniques to improve user experience requires specific approaches such as identifying and validating the benefits of a predictive model to solve a particular business challenge.</description>
+    </item>
+    
     <item>
       <title>Julien Vong</title>
       <link>https://DataScienceProduct.com/author/julien-vong/</link>
@@ -13,24 +22,6 @@
       
       <guid>https://DataScienceProduct.com/author/julien-vong/</guid>
       <description>Passionate about building products, improving user experience with data and AI.</description>
-    </item>
-    
-    <item>
-      <title>Become a morning person with the help of this a alarm clock</title>
-      <link>https://DataScienceProduct.com/blog/post-2/</link>
-      <pubDate>Mon, 25 Jan 2021 11:33:57 +0600</pubDate>
-      
-      <guid>https://DataScienceProduct.com/blog/post-2/</guid>
-      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.</description>
-    </item>
-    
-    <item>
-      <title>What you need to know about Photography</title>
-      <link>https://DataScienceProduct.com/blog/post-1/</link>
-      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
-      
-      <guid>https://DataScienceProduct.com/blog/post-1/</guid>
-      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.</description>
     </item>
     
     <item>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Data Science Product</title>
-    <link>https://DataScienceProduct.com/blog/</link>
-    <description>Recent content in Blog on Data Science Product</description>
+    <title>Product Design on Data Science Product</title>
+    <link>https://DataScienceProduct.com/tags/product-design/</link>
+    <description>Recent content in Product Design on Data Science Product</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 31 Jan 2022 18:19:25 +0600</lastBuildDate><atom:link href="https://DataScienceProduct.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Jan 2022 18:19:25 +0600</lastBuildDate><atom:link href="https://DataScienceProduct.com/tags/product-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is data science product management?</title>
       <link>https://DataScienceProduct.com/blog/post-1/</link>
