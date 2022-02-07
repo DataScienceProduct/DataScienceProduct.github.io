@@ -8,11 +8,22 @@
     <lastBuildDate>Mon, 31 Jan 2022 18:19:25 +0600</lastBuildDate><atom:link href="https://DataScienceProduct.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is data science product management?</title>
+      <link>https://DataScienceProduct.com/blog/coming_soon/</link>
+      <pubDate>Mon, 31 Jan 2022 18:19:25 +0600</pubDate>
+      
+      <guid>https://DataScienceProduct.com/blog/coming_soon/</guid>
+      <description>The main idea of this article is to introduce the specificities of a data science product management approach.
+TL;DR: Product management is the process of building a product taking into account business opportunities and solving end users’ problems.</description>
+    </item>
+    
+    <item>
+      <title>What is data science product management?</title>
       <link>https://DataScienceProduct.com/blog/what-is-data-science-product-management/</link>
       <pubDate>Mon, 31 Jan 2022 18:19:25 +0600</pubDate>
       
       <guid>https://DataScienceProduct.com/blog/what-is-data-science-product-management/</guid>
-      <description>TL;DR: Product management is the process of building a product taking into account business opportunities and solving end users’ problems. A product leveraging data science techniques to improve user experience requires specific approaches such as identifying and validating the benefits of a predictive model to solve a particular business challenge.</description>
+      <description>The main idea of this article is to introduce the specificities of a data science product management approach.
+TL;DR: Product management is the process of building a product taking into account business opportunities and solving end users’ problems.</description>
     </item>
     
     <item>
@@ -68,24 +79,6 @@ When I started building products that leverage artificial intelligence (AI) to s
       
       <guid>https://DataScienceProduct.com/404/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Privacy</title>
-      <link>https://DataScienceProduct.com/privacy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://DataScienceProduct.com/privacy/</guid>
-      <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis.</description>
-    </item>
-    
-    <item>
-      <title>Terms And Conditions</title>
-      <link>https://DataScienceProduct.com/terms-conditions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://DataScienceProduct.com/terms-conditions/</guid>
-      <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis.</description>
     </item>
     
   </channel>

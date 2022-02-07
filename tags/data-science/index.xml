@@ -8,11 +8,22 @@
     <lastBuildDate>Mon, 31 Jan 2022 18:19:25 +0600</lastBuildDate><atom:link href="https://DataScienceProduct.com/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is data science product management?</title>
+      <link>https://DataScienceProduct.com/blog/coming_soon/</link>
+      <pubDate>Mon, 31 Jan 2022 18:19:25 +0600</pubDate>
+      
+      <guid>https://DataScienceProduct.com/blog/coming_soon/</guid>
+      <description>The main idea of this article is to introduce the specificities of a data science product management approach.
+TL;DR: Product management is the process of building a product taking into account business opportunities and solving end users’ problems.</description>
+    </item>
+    
+    <item>
+      <title>What is data science product management?</title>
       <link>https://DataScienceProduct.com/blog/what-is-data-science-product-management/</link>
       <pubDate>Mon, 31 Jan 2022 18:19:25 +0600</pubDate>
       
       <guid>https://DataScienceProduct.com/blog/what-is-data-science-product-management/</guid>
-      <description>TL;DR: Product management is the process of building a product taking into account business opportunities and solving end users’ problems. A product leveraging data science techniques to improve user experience requires specific approaches such as identifying and validating the benefits of a predictive model to solve a particular business challenge.</description>
+      <description>The main idea of this article is to introduce the specificities of a data science product management approach.
+TL;DR: Product management is the process of building a product taking into account business opportunities and solving end users’ problems.</description>
     </item>
     
   </channel>
